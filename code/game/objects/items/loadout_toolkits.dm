@@ -269,7 +269,6 @@
 	name = "thief's tools"
 
 /obj/item/storage/box/tools/thief/PopulateContents()
-	new /obj/item/clothing/gloves/thief(src)
 	new /obj/item/grenade/smokebomb(src)
 	new /obj/item/clothing/mask/chameleon(src)
 	new /obj/item/soap/homemade(src)
